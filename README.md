@@ -28,7 +28,6 @@ The papers of Deepfakes Detection.
 ### 2.2 GAN Noises
 
 - Identification of deep network generated images using disparities in color components, arXiv  2018
-
 - Detecting GAN generated fake images using co-occurrence matrices, Electronic Imaging  2019
 - On the generalization of GAN image forensics, CCBR  2019
 - Detecting gan-generated imagery using color cues, arXiv 2018
@@ -80,7 +79,7 @@ The papers of Deepfakes Detection.
 - Detecting Deepfakes with Metric Learning, arXiv 2020
 - Deep learning based computer generated face identification using convolutional neural network, Applied Sciences  2018
 - A deep learning approach to universal image manipulation detection using a new convolutional layer, IHMS Workshop  2016
--  On the detection of digital face manipulation, CVPR 2020
+- On the detection of digital face manipulation, CVPR 2020
 - Distinguishing computer graphics from natural images using convolution neural networks, WIFS 2017
 - Fighting Against Deepfake: Patch&Pair Convolutional Neural Networks (PPCNN), CPWC  2020
 - Extracting deep local features to detect manipulated images of human faces, arXiv 2019
